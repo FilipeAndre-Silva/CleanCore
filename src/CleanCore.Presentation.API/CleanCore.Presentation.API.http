@@ -1,0 +1,6 @@
+@CleanCore.Presentation.API_HostAddress = http://localhost:5055
+
+GET {{CleanCore.Presentation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
